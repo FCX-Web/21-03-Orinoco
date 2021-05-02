@@ -2,8 +2,8 @@
 /*variables*/
 
 //list of product category urls
-let urlList = ["http://localhost:3000/api/teddies", "http://localhost:3000/api/cameras", "http://localhost:3000/api/furniture"];
-// let urlList = ["https://oc-devweb-p5-api.herokuapp.com/api/teddies", "https://oc-devweb-p5-api.herokuapp.com/api/cameras", "https://oc-devweb-p5-api.herokuapp.com/api/furniture"];
+// let urlList = ["http://localhost:3000/api/teddies", "http://localhost:3000/api/cameras", "http://localhost:3000/api/furniture"];
+let urlList = ["https://oc-devweb-p5-api.herokuapp.com/api/teddies", "https://oc-devweb-p5-api.herokuapp.com/api/cameras", "https://oc-devweb-p5-api.herokuapp.com/api/furniture"];
 
 //list of product categories
 let groupList = ["peluches", "photos", "meubles"];
