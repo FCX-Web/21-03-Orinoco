@@ -1,9 +1,9 @@
 Orinoco est le cinquième projet du parcours Développeur web chez OpenClassrooms.
 
-L'objectif est d'optimiser un site web existant, d'améliorer son référencement et son accessibilité.
+L'objectif est de créer le MVP du front-end d'un site e-commerce en Javascript et d'utiliser un API mis à disposition.
 
-Tech stack : outils SEO et d'Accessibilité
+Tech stack : HTML5, CSS3, Javascript
 
-Cahier des charges : https://github.com/FCX-Web/21-01-La-chouette-agence/blob/main/P4_presentation_soutenance.pdf
+Cahier des charges : 
 
 Site : https://fcx-web.github.io/21-03-Orinoco/index.html
