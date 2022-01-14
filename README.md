@@ -7,4 +7,7 @@ Framework : Bootstrap
 
 Cahier des charges : 
 
+  https://github.com/FCX-Web/21-03-Orinoco/blob/main/orinoco.pdf
+  
+
 Site : https://fcx-web.github.io/21-03-Orinoco/index.html
